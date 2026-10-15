@@ -277,10 +277,3 @@ Implementation:
 - `India_Census_2011_ProjectReport.docx` — project report
 - `README.md` — project documentation
 
-## Author
-
-**Name:** Sunnam Mehta
-
-**Program:** B.Tech Computer Science and Engineering (AI/ML)
-
-**Institution:** VIT Bhopal University
